@@ -1,6 +1,6 @@
 # 🧠 Fashion-MNIST Image Classification with CNN
 
-A deep learning project for classifying grayscale fashion images using a Convolutional Neural Network (CNN). Built as part of the final project for the course *CSC 578: Deep Learning and Neural Networks* at DePaul University.
+A deep learning project for classifying grayscale fashion images using a Convolutional Neural Network (CNN).
 
 ## 📁 Project Overview
 
@@ -45,7 +45,7 @@ Final Accuracy Achieved: **90.73%** on the test set
 | File | Description |
 |------|-------------|
 | `Fashion_MNIST_CNN_Bhutto.ipynb` | Full Jupyter notebook with training, evaluation, and plots |
-| `FProject_Report_Bhutto.pdf` | Formal LaTeX report (5 pages + appendix) |
+| `Project_Report_Bhutto.pdf` | Formal LaTeX report (5 pages + appendix) |
 | `model_summary.png`, `accuracy_loss_curves.png`, `misclassification_examples.png` | Visual outputs used in report & notebook |
 
 ## 🛠 Setup
